@@ -42,8 +42,8 @@ A secure, role-based backend system for managing books, borrow records, and user
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/your-username/library-management-system.git
-cd library-management-system
+git clone https://github.com/JawwadIrshad/Lib_mang_sys-FastAPI-.git
+cd Lib_Mnag_sys(FastAPI)
 python -m venv venv
 venv\Scripts\activate  # On Windows
 # OR
