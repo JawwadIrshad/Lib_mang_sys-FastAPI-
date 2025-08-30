@@ -49,11 +49,6 @@ venv\Scripts\activate  # On Windows
 # OR
 source venv/bin/activate  # On Unix/macOS
 
-pip install -r requirements.txt
-```
-
-```bash
-pip install -r requirements.txt
 ```
 
 ## 🧪 Run the Project
